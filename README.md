@@ -1,4 +1,4 @@
-# vue-first
+# VueJs Punch Monkey Game
 
 > A Vue.js project
 
